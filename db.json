@@ -1,0 +1,11 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "usuario": "usuarioPrueba",
+            "pwd": "1234",
+            "registro": "registro"
+        }
+    ],
+    "rutinas": []
+}
